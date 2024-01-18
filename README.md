@@ -36,7 +36,7 @@ We don't sacrifice any functionality of the button itself; it can still be used 
 
 **You can see the whole journey, including a demo of this mod in this video:**
 
-[![YoutTube Video => Watch now](https://img.youtube.com/vi/uaWzXktHp4A/0.jpg)](https://www.youtube.com/watch?v=uaWzXktHp4A "Click to watch the video")
+[![YoutTube Video => Watch now](https://img.youtube.com/vi/_NfQmBEY5ew/0.jpg)](https://www.youtube.com/watch?v=_NfQmBEY5ew "Click to watch the video")
 
 
 **CanWeFixThat Channel**
