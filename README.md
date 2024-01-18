@@ -36,9 +36,11 @@ We don't sacrifice any functionality of the button itself; it can still be used 
 
 **You can see the whole journey, including a demo of this mod in this video:**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_NfQmBEY5ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![YoutTube Video => Watch now](https://img.youtube.com/vi/uaWzXktHp4A/0.jpg)](https://www.youtube.com/watch?v=uaWzXktHp4A "Click to watch the video")
+
 
 **CanWeFixThat Channel**
+
 I'm Markus, your tech repair and modding expert. Join me as I extend the lifespan of consumer tech and reduce waste. With step-by-step videos and tips, I'll fix, upgrade, and repurpose your devices. Stay tuned for the latest in tech repair and modding.
 https://www.youtube.com/@CanWeFixThat
 
