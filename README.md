@@ -141,7 +141,6 @@ When you successfully upload the Sketch to the ATTtiny85, you can test the setup
 #### Making it slimmer
 
 > [!NOTE]
-
 > To slim down the Bluetooth module slightly, I desoldered the pairing button and the external antenna connector. But it is still a very tight fit behind the screen.
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="images/bt_module_remove_comp.jpg"><img src="images/bt_module_remove_comp.jpg" width="700"></a>
