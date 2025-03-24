@@ -82,6 +82,12 @@ I used *Visual Studio Code* with *PlatformIO*. https://docs.platformio.org/en/st
 
 Clone the repo and load it into *Visual Studio Code*. When you use the *Digispark USB Development Board*, you should be fine uploading the project to it; if not, you need to change or modify the *platformio.ini* accordingly to your programmer of choice.
 
+
+> [!NOTE]
+> If you have trouble uploading the code:
+> Remove the custom protocol and add *upload_protocol = micronucleus*
+> [Thanks @jacobanthony5521]
+
 ### Wiring
 
 When you successfully upload the Sketch to the ATTtiny85, you can test the setup. 
